@@ -1,0 +1,14 @@
+.exe
+.vscode 
+
+
+
+# C++ build outputs
+*.exe
+
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
