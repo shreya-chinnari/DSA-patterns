@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Array is ASCENDING
+// no duplicates, only DISTINCT elements
+
+// ---------------------------
+
 // check which side (LHS/RHS) is sorted,
 // check if the [KEY] is present in the sorted part,
 //    - if yes, eliminate the unsorted part
